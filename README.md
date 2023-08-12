@@ -1,4 +1,4 @@
-Tugas_Besar_Burayot
+Tugas Besar Burayot
 Tugas Besar Burayot ini ditujukan untuk memenuhi mata kuliah Rekayasa Perangkat Lunak 1 Kelompok Burayot Sendiri Terdiri Dari 5 Anggota Yaitu:
 
 10121002 - Muhamad Fakhmy Nugraha
